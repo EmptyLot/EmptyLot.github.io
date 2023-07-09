@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Difficulties in making this blog"
+title: "Difficulties in making this blog"
 date: 2023-07-10 01:07:07 +0800
 categories: jekyll try
 ---
@@ -14,7 +14,7 @@ categories: jekyll try
 用了梯子，又会出现一个新的问题。
 
 {% highlight ruby %}
-obrassard@mbp:timesentry [main] ►  git pull
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
