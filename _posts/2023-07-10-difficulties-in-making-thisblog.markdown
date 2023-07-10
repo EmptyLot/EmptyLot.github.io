@@ -44,8 +44,12 @@ This stores the RSA key fingerprints of the remote server you have ever connecte
  When an RSA key changes, its fingerprint changes as well.
 {% endhighlight %}
 看来是  **“need to update your ssh known_hosts file”。**  
+  
+
 
 [1] https://zenn.dev/fujishiro/scraps/9dcbd03aa608ae  
+  
+
 
 [2] https://levelup.gitconnected.com/how-to-deal-with-the-remote-host-identification-has-changed-message-with-github-1dea015dae8d  
 
@@ -70,18 +74,28 @@ Original contents retained as /Users/xxx/.ssh/known_hosts.old
 
 
 在本地，按照 github官方和jekyll 官方文档，安装jekyll  
+  
+
 
 [3] https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll  
+  
+
 
 先尝试在本地启动服务，就是不成功。  
+  
+
 
 [4] https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll  
+  
+
 
 
 注意看步骤7：jekyll new --skip-bundle . 注意最后的那个 . 这个是在当前文件夹启动，但是执行不成功。  
 
 
 [5] https://pages.github.com/versions/  
+  
+
 
 需要把github-pages的版本号码在Gemfile中写对  
 
@@ -97,8 +111,12 @@ Original contents retained as /Users/xxx/.ssh/known_hosts.old
 gem "webrick"  
 
 后，启动成功了。  
+  
+
 
 [6] https://stackoverflow.com/questions/65989040/bundle-exec-jekyll-serve-cannot-load-such-file  
+  
+  
 
 {% highlight ruby %}
 Add gem "webrick" to the Gemfile in your website. Than run bundle install
@@ -129,6 +147,8 @@ Your bundle only supports platforms ["x86_64-darwin-19", "x86_64-darwin-21"] but
 又是一顿搜索搜索  
 
 [7] https://stackoverflow.com/questions/72331753/ruby-and-rails-github-action-exit-code-16  
+  
+
 
 [8] https://zenn.dev/bon_saurus/articles/18de5c75a7bf85  
 
