@@ -130,12 +130,18 @@ https://stackoverflow.com/questions/72331753/ruby-and-rails-github-action-exit-c
 https://zenn.dev/bon_saurus/articles/18de5c75a7bf85  
 
 
-
+{% highlight ruby %}
 [ISSUE FIXED]  
 
 Solution:
 
 Run bundle lock --add-platform x86_64-linux  
+{% endhighlight %}
+
+直接在terminal中执行这个命令就可以了： bundle lock --add-platform x86_64-linux
+
+执行之后，重新push  
+
 
 然后终于部署成功了，可以在xxx.github.io下看到我的内容了。  
 
