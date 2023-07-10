@@ -37,10 +37,10 @@ fatal: Could not read from remote repository.
   
 
 google搜索query—— “WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!”提示：  
-
+{% highlight ruby %}
 How To Fix The “Warning: Remote Host Identification Has Changed!” Error. To fix the problem, you need to update your SSH known_hosts file. This stores the RSA key fingerprints of the remote server you have ever connected to. When an RSA key changes, its fingerprint changes as well.
-
-看来是 “need to update your ssh known_hosts file”。  
+{% endhighlight %}
+看来是 **“need to update your ssh known_hosts file”。**  
 
 https://zenn.dev/fujishiro/scraps/9dcbd03aa608ae  
 
@@ -138,7 +138,7 @@ Solution:
 Run bundle lock --add-platform x86_64-linux  
 {% endhighlight %}
 
-直接在terminal中执行这个命令就可以了： bundle lock --add-platform x86_64-linux
+直接在terminal中执行这个命令就可以了： **bundle lock --add-platform x86_64-linux**
 
 执行之后，重新push  
 
