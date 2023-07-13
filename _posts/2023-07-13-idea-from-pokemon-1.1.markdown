@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "mainland-eunuch-taking-district"
+title:  "idea from pokemon 1.1"
 date:   2023-07-13 19:32:59 +0800
 categories: mainland
 ---
