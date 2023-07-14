@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "simplified chinese eunuch talking district"
+title: "simplified chinese just like eunuch talking district"
 date: 2023-07-14 15:06:07 +0800
 categories: chinese
 ---
