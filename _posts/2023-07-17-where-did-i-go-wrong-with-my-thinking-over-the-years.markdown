@@ -2,7 +2,7 @@
 layout: post
 title: '很多人的思考错误，错误方式到底错误在哪里 包含我自己'
 date:  2023-07-17 19:26:15 +800
-categories: mainland-time-change
+categories: wrong1
 ---
 
 # 就是总觉得世界会往“正确”的方向去走。
