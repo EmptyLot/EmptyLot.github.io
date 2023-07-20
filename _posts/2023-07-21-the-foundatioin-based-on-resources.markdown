@@ -2,7 +2,7 @@
 layout: post
 title:  "The foundation based on resources"
 date:   2023-07-09 19:58:59 +0800
-categories: jekyll update
+categories: base on resource 1.1
 ---
 
 # 很多事情本质都是资源问题。
