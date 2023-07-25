@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "The differences between wadi and europe"
