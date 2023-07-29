@@ -7,7 +7,7 @@ categories: merories1.3
 
  # 新軸心們的掙扎是注定會失敗的 —— 而新軸心們失敗的這麼快，同樣是因為人類的記憶。
 
- [第一個記憶](https://emptylot.github.io/merories1.2/2023/07/29/something-will-success-or-failure-is-based-on-memories.html/ , "Title")
+ [第一個記憶](https://emptylot.github.io/merories1.2/2023/07/29/something-will-success-or-failure-is-based-on-memories.html)
 
  記得2014年，俄羅斯 入侵和搶奪 克里米亞 後，有窪地紅，不斷地在網絡上分析，毛子多麼多麼牛，米國多麼吃虧 芸芸。
 
