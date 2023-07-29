@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "why the new Axis is bound to fail"
+title:  "why the new Axis is bound to fail is based on memories 1.3"
 date:   2023-07-30 01:58:59 +0800
 categories: merories1.3
 ---
