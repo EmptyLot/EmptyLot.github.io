@@ -9,7 +9,7 @@ categories: jekyll try
 
 一開始是新申請了一個github賬戶，重新搜索了下github的ssh key配置，好久沒配置了，現在算法都變了,用ed25519，按照步驟配置好之後，一直不成功。  
 
-網上搜了無數次，中文，英文，日語，很多問題或者blog都看了，還是解決不了。  
+網上搜了無數次，wadi language，English，japanese，很多問題或者blog都看了，還是解決不了。  
 
 不過最終發現，不是我配置的問題，而是大陸對github域名污染導致的。  
 
